@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A14_Ex06", "A14 DN MTA Ex06\A14_Ex06.csproj", "{470BCCBB-4A7F-4C96-9817-F1A42736400A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{396A69F7-6053-4852-B27C-ACE6E692A440}"
+	ProjectSection(SolutionItems) = preProject
+		SubmissionDetails.txt = SubmissionDetails.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "customControls", "customControls\customControls.csproj", "{49D2E79D-536E-4521-BDDF-6EFDE9FD25C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470BCCBB-4A7F-4C96-9817-F1A42736400A}.Debug|x86.ActiveCfg = Debug|x86
+		{470BCCBB-4A7F-4C96-9817-F1A42736400A}.Debug|x86.Build.0 = Debug|x86
+		{470BCCBB-4A7F-4C96-9817-F1A42736400A}.Release|x86.ActiveCfg = Release|x86
+		{470BCCBB-4A7F-4C96-9817-F1A42736400A}.Release|x86.Build.0 = Release|x86
+		{49D2E79D-536E-4521-BDDF-6EFDE9FD25C5}.Debug|x86.ActiveCfg = Debug|x86
+		{49D2E79D-536E-4521-BDDF-6EFDE9FD25C5}.Debug|x86.Build.0 = Debug|x86
+		{49D2E79D-536E-4521-BDDF-6EFDE9FD25C5}.Release|x86.ActiveCfg = Release|x86
+		{49D2E79D-536E-4521-BDDF-6EFDE9FD25C5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\A14 DN MTA Ex06.exe.config
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\A14 DN MTA Ex06.exe
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\A14 DN MTA Ex06.pdb
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\customControls.dll
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\customControls.pdb
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_Ex06.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.Form4InARow.resources
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.FormAbout.resources
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.FormGameSettings.resources
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.FormHelp.resources
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.Properties.Resources.resources
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_Ex06.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14 DN MTA Ex06.exe
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14 DN MTA Ex06.pdb
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\A14 DN MTA Ex06.exe.config
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14 DN MTA Ex06.exe
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14 DN MTA Ex06.pdb
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\A14 DN MTA Ex06.exe
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\A14 DN MTA Ex06.pdb
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\customControls.dll
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\bin\Debug\customControls.pdb
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_Ex06.csprojResolveAssemblyReference.cache
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.Form4InARow.resources
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.FormAbout.resources
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.FormGameSettings.resources
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.FormHelp.resources
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_DN_MTA_Ex06.Properties.Resources.resources
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שישי\A14 Ex06 LiorAsulin 304826753 OrOfer 301123725\A14 DN MTA Ex06\obj\x86\Debug\A14_Ex06.csproj.GenerateResource.Cache
